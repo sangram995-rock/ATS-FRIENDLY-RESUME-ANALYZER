@@ -11,10 +11,10 @@
 3. COPY THE GIVEN CODE  git clone https://github.com/sangram995-rock/ATS-FRIENDLY-RESUME-ANALYZER.git  TO CLONE THE REPO IN YOUR SYSTEM.
 
 # How to Run Fronted and Backend Server using Powershell
-1. OPEN VISUAL CODE IN YOUR SYSTEM.
-2. IN THE TERMINAL WRITE THIS COMMAND:- cmd /c "cd/d C:\Users\sangr\Desktop\ATS\ATS-FRIENDLY-RESUME-ANALYZER && start_local.bat"
+1. OPEN FILE IN VISUAL CODE IN YOUR SYSTEM.
+2. IN TERMINAL WRITE THIS COMMAND:- cmd /c "cd/d C:\Users\sangr\Desktop\ATS\ATS-FRIENDLY-RESUME-ANALYZER && start_local.bat"
 
 # How to Run Backend Server Separately Using SWAGGER UI
-1. OPEN VISUAL CODE IN YOUR SYSTEM.
-2.  IN THE TERMINAL WRITE THIS COMMAND:- C:\Users\sangr\OneDrive\ATS\ATS-FRIENDLY-RESUME-ANALYZER\backend> uvicorn app.main:app --reload 
+1. OPEN FILE IN VISUAL CODE IN YOUR SYSTEM.
+2.  IN TERMINAL WRITE THIS COMMAND:- C:\Users\sangr\OneDrive\ATS\ATS-FRIENDLY-RESUME-ANALYZER\backend> uvicorn app.main:app --reload 
 
